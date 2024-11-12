@@ -17,7 +17,7 @@
 
 
 
-# Green Models
+# Sustainable Design of Recommender Models
 0. [A case-based reasoning recommender system for sustainable smart city development](https://link.springer.com/article/10.1007/s00146-020-00984-2) - Anthony Jnr, Bokolo. AI & SOCIETY 36.1 (2021): 159-183.
 0. [Social Networks Gamification for Sustainability Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-319-00551-5_38) - Silva, Fábio, et al. Distributed Computing and Artificial Intelligence: 10th International Conference. Springer International Publishing, 2013.
 0. [Smart sustainability through system satisfaction_tailored preference elicitation for energy-saving recommenders](https://www.usabart.nl/portfolio/Knijnenburgetal-amcis2014.pdf) - Knijnenburg, Bart Piet, Martijn Willemsen, and Ron Broeders. (2014).
@@ -46,7 +46,7 @@
 0. [From Clicks to Carbon: The Environmental Toll of Recommender Systems](https://arxiv.org/abs/2408.08203) - Tobias Vente, Lukas Wegmeth, Alan Said, Joeran Beel. 2024. From Clicks to Carbon: The Environmental Toll of Recommender Systems. RecSys 2024.
 
 
-# Healthy Food Recommenders
+# Sustainable Food Recommendation
 0. [Front of Pack Traffic Light Signpost Labelling - Technical Guidance](https://webarchive.nationalarchives.gov.uk/ukgwa/20130502235801/http://www.food.gov.uk/multimedia/pdfs/frontofpackguidance2.pdf) - UK FSA (Food Standards Agency).
 0. [Population nutrient intake goals for preventing diet-related chronic diseases](https://web.archive.org/web/20131031114143/http:/www.who.int/dietphysicalactivity/publications/trs916/en/gsfao_overall.pdf) - WHO (World Health Organization)
 0. [Nutritional content of supermarket ready meals and recipes by television chefs in the United Kingdom: cross sectional study](https://www.bmj.com/content/345/bmj.e7607) - Bmj 345 (2012).
@@ -67,7 +67,7 @@
 0. [Investigating the Healthiness of Internet-Sourced Recipes](https://dl.acm.org/doi/pdf/10.1145/3038912.3052573) - Trattner C, Elsweiler D. Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems[C]//Proceedings of the 26th international conference on world wide web. 2017: 489-498.
 0. [Sustainable Recipes. A Food Recipe Sourcing and Recommendation System to Minimize Food Miles](./green-models/arXiv20-Sustainable%20Recipes%20-%20A%20Food%20Recipe%20Sourcing%20and%20Recommendation%20System%20to%20Minimize%20Food%20Miles.pdf) - Herrera, Juan. arXiv preprint arXiv:2004.07454 (2020).
 
-# Green Travel Recommenders
+# Sustainable Travel Recommendation
 
 0. [Recommending eco-friendly route plans](https://www.academia.edu/download/87619466/LIFESTYLE_INTERFACERS_2012_proceedings.pdf#page=12) - Bothos E, Apostolou D, Mentzas G. Recommending eco-friendly route plans[C]//Proc. of 1st int. workshop on recommendation technologies for lifestyle change. 2012: 12-17.
 0. [Towards a Greener and Fairer Transportation System: A Survey of Route Recommendation Techniques](https://dl.acm.org/doi/abs/10.1145/3627825) - Makhdomi A A, Gillani I A. Towards a Greener and Fairer Transportation System: A Survey of Route Recommendation Techniques[J]. ACM Transactions on Intelligent Systems and Technology, 2023, 15(1): 1-57.
@@ -103,7 +103,7 @@
 4. [Sustainability at scale: towards bridging the intention-behavior gap with sustainable recommendations](https://doi.org/10.1145/3240323.3240411) - Sabina Tomkins, Steven Isley, Ben London, and Lise Getoor. 2018. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 2018), edited by Sole Pera, Michael D. Ekstrand, Xavier Amatriain, and John O'Donovan, 214-218. Vancouver, BC, Canada, October 2-7, 2018. ACM, New York, NY, USA.
 
 
-# Green Building Recommender
+# Sustainable Building Recommendation
 
 0. [Short-term building energy model recommendation system: A meta-learning approach](https://www.sciencedirect.com/science/article/pii/S030626191630438X) - Cui C, Wu T, Hu M, et al. Short-term building energy model recommendation system: A meta-learning approach[J]. Applied energy, 2016, 172: 251-263.
 1. [Reducing energy waste in households through real-time recommendation](https://dl.acm.org/doi/abs/10.1145/3383313.3412212) - Dahihande J, Jaiswal A, Pagar A A, et al. Reducing energy waste in households through real-time recommendations[C]//Proceedings of the 14th ACM Conference on Recommender Systems. 2020: 545-550.
