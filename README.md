@@ -1,8 +1,24 @@
+<h2 align="center"> Awesome Recommender Systems in Advancing Sustainability <div align=center> </a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
+<h5 align="center">
+
+   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+   [![arxiv](https://img.shields.io/badge/Arxiv-2411.07658-red)](https://arxiv.org/abs/2411.07658)
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenoche%2FSusRec&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</h5>
+
+Recommender systems are revolutionizing sustainability efforts by intelligently guiding users toward eco-friendly choices, from energy-efficient products to reduced-waste models/services. This repo is a curated list of papers about the latest advancements in recommender systems targetting sustainability. **This repo is being actively updated, please stay tuned!**
+
+> **Paper**: [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658)
+
+> **Authors**: Xin Zhou†, Lei Zhang†, Honglei Zhang, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, and Zhiqi Shen
+
+> *<sup>†</sup> Equal Contribution*
 
 ## Surveys 
 
-0. [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658) - Xin Zhou, Lei Zhang, Honglei Zhang, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, and Zhiqi Shen. arXiv. 2024.
 0. [Recommender systems for smart cities](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300478) - Quijano-Sánchez, Lara, Iván Cantador, María E. Cortés-Cediel, and Olga Gil. Information systems 92 (2020): 101545.
 0. [Intelligent tourism recommender systems: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0957417414003431)  - Borràs, Joan, Antonio Moreno, and Aida Valls. "Intelligent tourism recommender systems: A survey." Expert systems with applications 41, no. 16 (2014): 7370-7389.
 0. [Industrial symbiosis recommender systems](https://research.utwente.nl/en/publications/industrial-symbiosis-recommender-systems) - van Capelleveen, Guido Cornelis. Enschede: University of Twente, 2020.
