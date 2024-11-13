@@ -13,8 +13,9 @@ Recommender systems are revolutionizing sustainability efforts by intelligently 
 
 > **Paper**: [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658)
 
-> **Authors**: Xin Zhou†, Lei Zhang†, Honglei Zhang, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, and Zhiqi Shen
+> **Authors**: Xin Zhou<sup>1,†</sup>, Lei Zhang<sup>1,†</sup>, Honglei Zhang<sup>2,†</sup>, Yixin Zhang<sup>3,†</sup>, Xiaoxiong Zhang<sup>1,†</sup>, Jie Zhang<sup>1,†</sup>, and Zhiqi Shen<sup>1,†</sup>
 
+> *<sup>1</sup>Nanyang Technological University, <sup>2</sup>Beijing Jiaotong University, <sup>3</sup>Shandong University.*
 > *<sup>†</sup> Equal Contribution*
 
 ## Surveys 
