@@ -19,7 +19,7 @@ Recommender systems are revolutionizing sustainability efforts by intelligently 
 > *<sup>†</sup> Equal Contribution*
 
 <div align=center>
-<img src="img/Timeline_4.0.png" width="800px">
+<img src="img/SusRec.png" width="800px">
 </div>
 
 ## Surveys 
