@@ -1,6 +1,6 @@
 
 
-## Surveys
+## Surveys [dvancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658)
 
 0. [Recommender systems for smart cities](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300478) - Quijano-Sánchez, Lara, Iván Cantador, María E. Cortés-Cediel, and Olga Gil. Information systems 92 (2020): 101545.
 0. [Intelligent tourism recommender systems: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0957417414003431)  - Borràs, Joan, Antonio Moreno, and Aida Valls. "Intelligent tourism recommender systems: A survey." Expert systems with applications 41, no. 16 (2014): 7370-7389.
