@@ -1,6 +1,6 @@
 
 
-# Surveys
+## Surveys
 
 0. [Recommender systems for smart cities](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300478) - Quijano-Sánchez, Lara, Iván Cantador, María E. Cortés-Cediel, and Olga Gil. Information systems 92 (2020): 101545.
 0. [Intelligent tourism recommender systems: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0957417414003431)  - Borràs, Joan, Antonio Moreno, and Aida Valls. "Intelligent tourism recommender systems: A survey." Expert systems with applications 41, no. 16 (2014): 7370-7389.
@@ -16,29 +16,7 @@
 
 
 
-
-# Sustainable Food Recommendation
-0. [Front of Pack Traffic Light Signpost Labelling - Technical Guidance](https://webarchive.nationalarchives.gov.uk/ukgwa/20130502235801/http://www.food.gov.uk/multimedia/pdfs/frontofpackguidance2.pdf) - UK FSA (Food Standards Agency).
-0. [Population nutrient intake goals for preventing diet-related chronic diseases](https://web.archive.org/web/20131031114143/http:/www.who.int/dietphysicalactivity/publications/trs916/en/gsfao_overall.pdf) - WHO (World Health Organization)
-0. [Nutritional content of supermarket ready meals and recipes by television chefs in the United Kingdom: cross sectional study](https://www.bmj.com/content/345/bmj.e7607) - Bmj 345 (2012).
-0. [Estimating the Healthiness of Internet Recipes: A Cross-sectional Study](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2017.00016/full#T1) - Frontiers in public health 5 (2017): 244350.
-0. [Nudging Healthy Choices in Food Search Through Visual Attractiveness](https://www.frontiersin.org/articles/10.3389/frai.2021.621743/full#B61) - Frontiers in Artificial Intelligence 4 (2021): 621743.
-0. [A novel healthy and time-aware food recommender system using attributed community detection](https://www.sciencedirect.com/science/article/pii/S0957417423002208?ref=pdf_download&fr=RR-2&rr=8674b017bf473d9e) - Rostami M, Farrahi V, Ahmadian S, et al. Expert Systems with Applications, 2023, 221: 119719.
-0. [Health-aware food recommendation system with dual attention in heterogeneous graphs](https://www.sciencedirect.com/science/article/pii/S0010482523013471?ref=pdf_download&fr=RR-2&rr=8674b3224d1e6595) - Forouzandeh S, Rostami M, Berahmand K, et al. Computers in Biology and Medicine, 2024, 169: 107882.
-0. [Towards Health-Aware Fairness in Food Recipe Recommendation](https://dl.acm.org/doi/abs/10.1145/3604915.3610659) - Rostami M, Aliannejadi M, Oussalah M. ACM Conference on Recommender Systems. 2023: 1184-1189.
-0. [Self-supervised Calorie-aware Heterogeneous Graph Networks for Food Recommendation](https://dl.acm.org/doi/pdf/10.1145/3524618) - Song Y, Yang X, Xu C. ACM Transactions on Multimedia Computing, Communications and Applications, 2023, 19(1s): 1-23.
-0. [SHARE: A Framework for Personalized and Healthy Recipe Recommendations](https://ceur-ws.org/Vol-3379/HeDAI_2023_paper405.pdf) - Zioutos K, Kondylakis H, Stefanidis K. [C]//Proceedings of the Workshops of the EDBT/ICDT 2023 Joint Conference. CEUR-WS, 2023.
-0. [Towards Adaptive and Personalised Recommendation for Healthy Food Promotion](https://ceur-ws.org/Vol-3544/paper4.pdf) - Nurbakova D, Bölz F, Serna A, et al. [C]//BehavRec’23, the First International Workshop on Behavior Change and Persuasive Recommender Systems at the 17th ACM Conference on Recommender Systems (RecSys’ 23). 2023.
-0. [Examining the User Evaluation of Multi-List Recommender Interfaces in the Context of Healthy Recipe Choices](https://dl.acm.org/doi/10.1145/3581930) - Starke A D, Asotic E, Trattner C, et al. ACM Transactions on Recommender Systems, 2023, 1(4): 1-31.
-0. [Healthy Personalized Recipe Recommendations for Weekly Meal Planning](https://www.mdpi.com/2073-431X/13/1/1) - [J]. Zioutos K, Kondylakis H, Stefanidis K. Computers, 2023, 13(1): 1.
-0. [Healthy Food Recommendation Using a Time-Aware Community Detection Approach and Reliability Measurement](https://link.springer.com/article/10.1007/s44196-022-00168-4) - Ahmadian S, Rostami M, Jalali S M J, et al. [J]. International Journal of Computational Intelligence Systems, 2022, 15(1): 105.
-0. [A Recommender System for Healthy Food Choices: Building a Hybrid Model for Recipe Recommendations using Big Data Sets](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/e0a4fa68-a074-49f4-ad7c-5d9e97fd2827/content) - Chavan P, Thoms B, Isaacs J. [J]. 2021.
-0. [A Recommender System for Healthy and Personalized Recipe Recommendations](https://ceur-ws.org/Vol-2684/3-paginated.pdf) - Pecune F, Callebert L, Marsella S. [C]//HealthRecSys@ RecSys. 2020: 15-20.
-0. [An overview of recommender systems in the healthy food domain](https://link.springer.com/article/10.1007/s10844-017-0469-0) - Trang Tran T N, Atas M, Felfernig A, et al. [J]. Journal of Intelligent Information Systems, 2018, 50: 501-526.
-0. [Investigating the Healthiness of Internet-Sourced Recipes](https://dl.acm.org/doi/pdf/10.1145/3038912.3052573) - Trattner C, Elsweiler D. Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems[C]//Proceedings of the 26th international conference on world wide web. 2017: 489-498.
-0. [Sustainable Recipes. A Food Recipe Sourcing and Recommendation System to Minimize Food Miles](./green-models/arXiv20-Sustainable%20Recipes%20-%20A%20Food%20Recipe%20Sourcing%20and%20Recommendation%20System%20to%20Minimize%20Food%20Miles.pdf) - Herrera, Juan. arXiv preprint arXiv:2004.07454 (2020).
-
-# Sustainable Travel Recommendation
+## Sustainable Travel Recommendation
 
 0. [Recommending eco-friendly route plans](https://www.academia.edu/download/87619466/LIFESTYLE_INTERFACERS_2012_proceedings.pdf#page=12) - Bothos E, Apostolou D, Mentzas G. Recommending eco-friendly route plans[C]//Proc. of 1st int. workshop on recommendation technologies for lifestyle change. 2012: 12-17.
 0. [Towards a Greener and Fairer Transportation System: A Survey of Route Recommendation Techniques](https://dl.acm.org/doi/abs/10.1145/3627825) - Makhdomi A A, Gillani I A. Towards a Greener and Fairer Transportation System: A Survey of Route Recommendation Techniques[J]. ACM Transactions on Intelligent Systems and Technology, 2023, 15(1): 1-57.
@@ -65,18 +43,31 @@
 0. [A socially motivating and environmentally friendly tour recommendation framework for tourist groups](https://doi.org/10.1016/j.eswa.2021.115083) - Mehdi Kargar, Zhibin Lin. Expert Systems with Applications, 180 (2021): 115083.
 0. [An Intelligent Recommendation for Intelligently Accessible Charging Stations: Electronic Vehicle Charging to Support a Sustainable Smart Tourism City](./green-models/Sustainability23-An%20Intelligent%20Recommendation%20for%20Intelligently%20Accessible%20Charging%20Stations%20Electronic%20Vehicle%20Charging%20to%20Support%20a%20Sustainable%20Smart%20Tourism%20City.pdf) - Suanpang, Pannee, et al. Sustainability 15.1 (2023): 455.
 
-# Broader Applications of Sustainable Recommendations
 
-0. [Smart sustainability through system satisfaction_tailored preference elicitation for energy-saving recommenders](https://www.usabart.nl/portfolio/Knijnenburgetal-amcis2014.pdf) - Knijnenburg, Bart Piet, Martijn Willemsen, and Ron Broeders. (2014).
-0. [Social networks gamification for sustainability recommendation systems](https://link.springer.com/chapter/10.1007/978-3-319-00551-5_38) - Silva, Fábio, Cesar Analide, Luís Rosa, Gilberto Felgueiras, and Cedric Pimenta. In Distributed Computing and Artificial Intelligence: 10th International Conference, pp. 307-315. Springer International Publishing, 2013.
-0. [Keen to advocate green: How green attributes drive product recommendations](https://www.sciencedirect.com/science/article/abs/pii/S0959652623043159) - Stockheim I, Tevet D, Fenig N. Keen to advocate green: How green attributes drive product recommendations[J]. Journal of Cleaner Production, 2024, 434: 140157.
-0. [Research and design of green packaging product recommendation system based on multi-algorithm fusion](https://ieeexplore.ieee.org/abstract/document/9988303/) - Liu H, Wang Z. Research and design of green packaging product recommendation system based on multi-algorithm fusion[C]//2022 IEEE 2nd International Conference on Data Science and Computer Application (ICDSCA). IEEE, 2022: 527-530.
-0. [nalyzing green recommendation approach to address sustainability issues in textile and apparel supply chain](https://www.researchgate.net/profile/Ravi-Singh-182/publication/378861416_Effectiveness_of_HRM_in_Banking_Industries_with_Reference_to_the_State_Bank_of_India/links/65ee9f279ab2af0ef8aebebf/Effectiveness-of-HRM-in-Banking-Industries-with-Reference-to-the-State-Bank-of-India.pdf#page=632) - Gawali V. Analyzing Green Recommendation Approach to Address Sustainability Issues in Textile and Apparel Supply Chain[J]. Asian Journal of Organic & Medicinal Chemistry, 2022.
-0. [Promoting Green Fashion Consumption Through Digital Nudges in Recommender Systems](https://ieeexplore.ieee.org/abstract/document/10380588/) - Cossatin A G, Mauro N, Ardissono L. Promoting Green Fashion Consumption Through Digital Nudges in Recommender Systems[J]. IEEE Access, 2024.
-0. [Sustainability at scale: towards bridging the intention-behavior gap with sustainable recommendations](https://doi.org/10.1145/3240323.3240411) - Sabina Tomkins, Steven Isley, Ben London, and Lise Getoor. 2018. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 2018), edited by Sole Pera, Michael D. Ekstrand, Xavier Amatriain, and John O'Donovan, 214-218. Vancouver, BC, Canada, October 2-7, 2018. ACM, New York, NY, USA.
+## Sustainable Food Recommendation
+
+0. [Front of Pack Traffic Light Signpost Labelling - Technical Guidance](https://webarchive.nationalarchives.gov.uk/ukgwa/20130502235801/http://www.food.gov.uk/multimedia/pdfs/frontofpackguidance2.pdf) - UK FSA (Food Standards Agency).
+0. [Population nutrient intake goals for preventing diet-related chronic diseases](https://web.archive.org/web/20131031114143/http:/www.who.int/dietphysicalactivity/publications/trs916/en/gsfao_overall.pdf) - WHO (World Health Organization)
+0. [Nutritional content of supermarket ready meals and recipes by television chefs in the United Kingdom: cross sectional study](https://www.bmj.com/content/345/bmj.e7607) - Bmj 345 (2012).
+0. [Estimating the Healthiness of Internet Recipes: A Cross-sectional Study](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2017.00016/full#T1) - Frontiers in public health 5 (2017): 244350.
+0. [Nudging Healthy Choices in Food Search Through Visual Attractiveness](https://www.frontiersin.org/articles/10.3389/frai.2021.621743/full#B61) - Frontiers in Artificial Intelligence 4 (2021): 621743.
+0. [A novel healthy and time-aware food recommender system using attributed community detection](https://www.sciencedirect.com/science/article/pii/S0957417423002208?ref=pdf_download&fr=RR-2&rr=8674b017bf473d9e) - Rostami M, Farrahi V, Ahmadian S, et al. Expert Systems with Applications, 2023, 221: 119719.
+0. [Health-aware food recommendation system with dual attention in heterogeneous graphs](https://www.sciencedirect.com/science/article/pii/S0010482523013471?ref=pdf_download&fr=RR-2&rr=8674b3224d1e6595) - Forouzandeh S, Rostami M, Berahmand K, et al. Computers in Biology and Medicine, 2024, 169: 107882.
+0. [Towards Health-Aware Fairness in Food Recipe Recommendation](https://dl.acm.org/doi/abs/10.1145/3604915.3610659) - Rostami M, Aliannejadi M, Oussalah M. ACM Conference on Recommender Systems. 2023: 1184-1189.
+0. [Self-supervised Calorie-aware Heterogeneous Graph Networks for Food Recommendation](https://dl.acm.org/doi/pdf/10.1145/3524618) - Song Y, Yang X, Xu C. ACM Transactions on Multimedia Computing, Communications and Applications, 2023, 19(1s): 1-23.
+0. [SHARE: A Framework for Personalized and Healthy Recipe Recommendations](https://ceur-ws.org/Vol-3379/HeDAI_2023_paper405.pdf) - Zioutos K, Kondylakis H, Stefanidis K. [C]//Proceedings of the Workshops of the EDBT/ICDT 2023 Joint Conference. CEUR-WS, 2023.
+0. [Towards Adaptive and Personalised Recommendation for Healthy Food Promotion](https://ceur-ws.org/Vol-3544/paper4.pdf) - Nurbakova D, Bölz F, Serna A, et al. [C]//BehavRec’23, the First International Workshop on Behavior Change and Persuasive Recommender Systems at the 17th ACM Conference on Recommender Systems (RecSys’ 23). 2023.
+0. [Examining the User Evaluation of Multi-List Recommender Interfaces in the Context of Healthy Recipe Choices](https://dl.acm.org/doi/10.1145/3581930) - Starke A D, Asotic E, Trattner C, et al. ACM Transactions on Recommender Systems, 2023, 1(4): 1-31.
+0. [Healthy Personalized Recipe Recommendations for Weekly Meal Planning](https://www.mdpi.com/2073-431X/13/1/1) - [J]. Zioutos K, Kondylakis H, Stefanidis K. Computers, 2023, 13(1): 1.
+0. [Healthy Food Recommendation Using a Time-Aware Community Detection Approach and Reliability Measurement](https://link.springer.com/article/10.1007/s44196-022-00168-4) - Ahmadian S, Rostami M, Jalali S M J, et al. [J]. International Journal of Computational Intelligence Systems, 2022, 15(1): 105.
+0. [A Recommender System for Healthy Food Choices: Building a Hybrid Model for Recipe Recommendations using Big Data Sets](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/e0a4fa68-a074-49f4-ad7c-5d9e97fd2827/content) - Chavan P, Thoms B, Isaacs J. [J]. 2021.
+0. [A Recommender System for Healthy and Personalized Recipe Recommendations](https://ceur-ws.org/Vol-2684/3-paginated.pdf) - Pecune F, Callebert L, Marsella S. [C]//HealthRecSys@ RecSys. 2020: 15-20.
+0. [An overview of recommender systems in the healthy food domain](https://link.springer.com/article/10.1007/s10844-017-0469-0) - Trang Tran T N, Atas M, Felfernig A, et al. [J]. Journal of Intelligent Information Systems, 2018, 50: 501-526.
+0. [Investigating the Healthiness of Internet-Sourced Recipes](https://dl.acm.org/doi/pdf/10.1145/3038912.3052573) - Trattner C, Elsweiler D. Investigating the healthiness of internet-sourced recipes: implications for meal planning and recommender systems[C]//Proceedings of the 26th international conference on world wide web. 2017: 489-498.
+0. [Sustainable Recipes. A Food Recipe Sourcing and Recommendation System to Minimize Food Miles](./green-models/arXiv20-Sustainable%20Recipes%20-%20A%20Food%20Recipe%20Sourcing%20and%20Recommendation%20System%20to%20Minimize%20Food%20Miles.pdf) - Herrera, Juan. arXiv preprint arXiv:2004.07454 (2020).
 
 
-# Sustainable Building Recommendation
+## Sustainable Building Recommendation
 
 0. [Short-term building energy model recommendation system: A meta-learning approach](https://www.sciencedirect.com/science/article/pii/S030626191630438X) - Cui C, Wu T, Hu M, et al. Short-term building energy model recommendation system: A meta-learning approach[J]. Applied energy, 2016, 172: 251-263.
 1. [Reducing energy waste in households through real-time recommendation](https://dl.acm.org/doi/abs/10.1145/3383313.3412212) - Dahihande J, Jaiswal A, Pagar A A, et al. Reducing energy waste in households through real-time recommendations[C]//Proceedings of the 14th ACM Conference on Recommender Systems. 2020: 545-550.
@@ -93,7 +84,17 @@
 12. [Household power usage pattern filtering-based residential electricity plan recommender system](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006176) - Zhao P, Dong Z Y, Meng K, et al. Household power usage pattern filtering-based residential electricity plan recommender system[J]. Applied Energy, 2021, 298: 117191.
 
 
-# Sustainable Design of Recommender Models
+## Broader Applications of Sustainable Recommendations
+0. [Smart sustainability through system satisfaction_tailored preference elicitation for energy-saving recommenders](https://www.usabart.nl/portfolio/Knijnenburgetal-amcis2014.pdf) - Knijnenburg, Bart Piet, Martijn Willemsen, and Ron Broeders. (2014).
+0. [Social networks gamification for sustainability recommendation systems](https://link.springer.com/chapter/10.1007/978-3-319-00551-5_38) - Silva, Fábio, Cesar Analide, Luís Rosa, Gilberto Felgueiras, and Cedric Pimenta. In Distributed Computing and Artificial Intelligence: 10th International Conference, pp. 307-315. Springer International Publishing, 2013.
+0. [Keen to advocate green: How green attributes drive product recommendations](https://www.sciencedirect.com/science/article/abs/pii/S0959652623043159) - Stockheim I, Tevet D, Fenig N. Keen to advocate green: How green attributes drive product recommendations[J]. Journal of Cleaner Production, 2024, 434: 140157.
+0. [Research and design of green packaging product recommendation system based on multi-algorithm fusion](https://ieeexplore.ieee.org/abstract/document/9988303/) - Liu H, Wang Z. Research and design of green packaging product recommendation system based on multi-algorithm fusion[C]//2022 IEEE 2nd International Conference on Data Science and Computer Application (ICDSCA). IEEE, 2022: 527-530.
+0. [nalyzing green recommendation approach to address sustainability issues in textile and apparel supply chain](https://www.researchgate.net/profile/Ravi-Singh-182/publication/378861416_Effectiveness_of_HRM_in_Banking_Industries_with_Reference_to_the_State_Bank_of_India/links/65ee9f279ab2af0ef8aebebf/Effectiveness-of-HRM-in-Banking-Industries-with-Reference-to-the-State-Bank-of-India.pdf#page=632) - Gawali V. Analyzing Green Recommendation Approach to Address Sustainability Issues in Textile and Apparel Supply Chain[J]. Asian Journal of Organic & Medicinal Chemistry, 2022.
+0. [Promoting Green Fashion Consumption Through Digital Nudges in Recommender Systems](https://ieeexplore.ieee.org/abstract/document/10380588/) - Cossatin A G, Mauro N, Ardissono L. Promoting Green Fashion Consumption Through Digital Nudges in Recommender Systems[J]. IEEE Access, 2024.
+0. [Sustainability at scale: towards bridging the intention-behavior gap with sustainable recommendations](https://doi.org/10.1145/3240323.3240411) - Sabina Tomkins, Steven Isley, Ben London, and Lise Getoor. 2018. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 2018), edited by Sole Pera, Michael D. Ekstrand, Xavier Amatriain, and John O'Donovan, 214-218. Vancouver, BC, Canada, October 2-7, 2018. ACM, New York, NY, USA.
+
+
+## Sustainable Design of Recommender Models
 0. [A case-based reasoning recommender system for sustainable smart city development](https://link.springer.com/article/10.1007/s00146-020-00984-2) - Anthony Jnr, Bokolo. AI & SOCIETY 36.1 (2021): 159-183.
 0. [Social Networks Gamification for Sustainability Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-319-00551-5_38) - Silva, Fábio, et al. Distributed Computing and Artificial Intelligence: 10th International Conference. Springer International Publishing, 2013.
 0. [An Eco-Friendly Multimodal Route Guidance System for Urban Areas Using Multi-Agent Technology](https://www.mdpi.com/2076-3417/11/5/2057) - Namoun, Abdallah, et al. Applied Sciences 11.5 (2021): 2057.
