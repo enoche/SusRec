@@ -18,6 +18,10 @@ Recommender systems are revolutionizing sustainability efforts by intelligently 
 > *<sup>1</sup>Nanyang Technological University, <sup>2</sup>Beijing Jiaotong University, <sup>3</sup>Shandong University.*
 > *<sup>†</sup> Equal Contribution*
 
+<div align=center>
+<img src="img/Timeline_4.0.png" width="800px">
+</div>
+
 ## Surveys 
 
 0. [Recommender systems for smart cities](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300478) - Quijano-Sánchez, Lara, Iván Cantador, María E. Cortés-Cediel, and Olga Gil. Information systems 92 (2020): 101545.
