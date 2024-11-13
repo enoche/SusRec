@@ -1,7 +1,8 @@
 
 
-## Surveys [dvancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658)
+## Surveys 
 
+0. [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658) - Xin Zhou, Lei Zhang, Honglei Zhang, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, and Zhiqi Shen. arXiv. 2024.
 0. [Recommender systems for smart cities](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300478) - Quijano-Sánchez, Lara, Iván Cantador, María E. Cortés-Cediel, and Olga Gil. Information systems 92 (2020): 101545.
 0. [Intelligent tourism recommender systems: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0957417414003431)  - Borràs, Joan, Antonio Moreno, and Aida Valls. "Intelligent tourism recommender systems: A survey." Expert systems with applications 41, no. 16 (2014): 7370-7389.
 0. [Industrial symbiosis recommender systems](https://research.utwente.nl/en/publications/industrial-symbiosis-recommender-systems) - van Capelleveen, Guido Cornelis. Enschede: University of Twente, 2020.
@@ -121,3 +122,14 @@
 0. [Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability](https://doi.org/10.1145/3511808.3557415) - Dongmin Hyun, Chanyoung Park, Junsu Cho, and Hwanjo Yu. 2022. Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability. In Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM '22), edited by Mohammad Al Hasan and Li Xiong, 812-821. Atlanta, GA, USA, October 17-21, 2022. ACM, New York, NY, USA.
 0. [From Clicks to Carbon: The Environmental Toll of Recommender Systems](https://arxiv.org/abs/2408.08203) - Tobias Vente, Lukas Wegmeth, Alan Said, Joeran Beel. 2024. From Clicks to Carbon: The Environmental Toll of Recommender Systems. RecSys 2024.
 
+
+
+#### Please consider to cite our paper if this framework helps you, thanks:
+```
+@article{zhou2024advancing,
+      title={Advancing Sustainability via Recommender Systems: A Survey}, 
+      author={Zhou, Xin and Zhang, Lei and Zhang, Honglei and Zhang, Yixin and Zhang, Xiaoxiong and Zhang, Jie and Shen, Zhiqi},
+      year={2024},
+      journal={arXiv preprint arXiv:2411.07658},
+}
+```
