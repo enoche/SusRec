@@ -9,7 +9,7 @@
 
 </h5>
 
-Recommender systems are revolutionizing sustainability efforts by intelligently guiding users toward eco-friendly choices, from energy-efficient products to reduced-waste models/services. This repo is a curated list of papers about the latest advancements in recommender systems targetting sustainability. **This repo is being actively updated, please stay tuned!**
+Recommender systems are revolutionizing sustainability efforts by intelligently guiding users toward eco-friendly choices, from energy-efficient products/models to reduced-waste services. This repo is a curated list of papers about the latest advancements in recommender systems targetting sustainability. **This repo is being actively updated, please stay tuned!**
 
 > **Paper**: [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/abs/2411.07658)
 
