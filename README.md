@@ -141,7 +141,7 @@ Recommender systems are revolutionizing sustainability efforts by intelligently 
 
 
 
-#### Please consider to cite our paper if this framework helps you, thanks:
+#### Please consider to cite our paper if this repo. helps you, thanks:
 ```
 @article{zhou2024advancing,
       title={Advancing Sustainability via Recommender Systems: A Survey}, 
